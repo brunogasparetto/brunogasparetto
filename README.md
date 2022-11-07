@@ -13,7 +13,7 @@ Atualmente atuo como Analista de Sistemas, mas continuo amando desenvolvimento e
 <br><br>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunogasparetto&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunogasparetto&show_icons=true&theme=dark" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
