@@ -13,9 +13,9 @@ Atualmente atuo como Analista de Sistemas, mas continuo amando desenvolvimento e
 <br><br>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunogasparetto&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunogasparetto&show_icons=true&theme=dracula" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogasparetto&hide=html&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogasparetto&hide=html&layout=compact&theme=dracula" />
 </a>
