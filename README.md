@@ -9,9 +9,3 @@ Atualmente atuo como Analista de Sistemas, mas continuo amando desenvolvimento e
 <a href="https://www.linkedin.com/in/brunogasparetto/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
-
-<br><br>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogasparetto&hide=html&layout=compact&theme=dracula" />
-</a>
