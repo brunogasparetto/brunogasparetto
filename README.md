@@ -2,7 +2,7 @@
 
 Atualmente atuo como Analista de Sistemas, mas continuo amando desenvolvimento e por isso estou sempre me atualizando para aplicar novos conceitos nos meus projetos pessoais.
 
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BrunoGasparetto) [![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/brunoguntz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge)](https://www.linkedin.com/in/brunogasparetto)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BrunoGasparetto) [![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/brunoguntz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge)](https://www.linkedin.com/in/brunogasparetto) [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge)](https://brunogasparetto.github.io/)
 
 ## Ferramentas
 
