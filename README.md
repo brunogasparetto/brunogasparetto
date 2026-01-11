@@ -26,8 +26,3 @@ Atualmente atuo como Analista de Sistemas, mas continuo amando desenvolvimento e
 ![GitLab](https://img.shields.io/badge/GitLab-e34930?style=flat&logo=gitlab&logoColor=white)
 ![Fluig](https://img.shields.io/badge/Fluig-ffcc10?style=flat&logo=totvs&logoColor=white)
 ![RM](https://img.shields.io/badge/RM-0199be?style=flat&logo=totvs&logoColor=white)
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogasparetto&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=brunogasparetto&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) 
